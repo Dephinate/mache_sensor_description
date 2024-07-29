@@ -1,1 +1,1 @@
-# sample_sensor_kit_launch
+# Sensor Kit Description for Autoware
